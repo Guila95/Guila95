@@ -78,7 +78,7 @@ Je suis un professionnel en cybersécurité actuellement en doctorat, spécialis
 ### Réseaux & Cybersécurité  
 - **Outils :** Metasploit, Gephi, Cisco Packet Tracer, Cisco Modeling Labs (CML)  
 - **Protocoles :** DNS, DHCP, FTP, SSH, Postfix/Dovecot, OSPF, BGP, VLAN, HSRP, VRRP, ACL, STP  
-- **Systèmes :** Linux (Debian), Windows  
+- **Systèmes :** Linux (Kali Linux), Windows  
 
 ### Support IT  
 - Dépannage, installation, configuration, mises à jour, sauvegardes  
