@@ -101,9 +101,7 @@ Je suis un professionnel en cybersécurité actuellement en doctorat, spécialis
 
 ---
 
-## 📫 Contact  
-- 📍 Ville : Saint-Pétersbourg, Russie  
-
+## 📫 Contact   
 <div align="left">
   <a href="https://www.linkedin.com/in/michel-guilavogui-759600239">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
