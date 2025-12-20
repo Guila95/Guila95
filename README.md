@@ -103,7 +103,8 @@ Je suis un professionnel en cybersécurité actuellement en doctorat, spécialis
 
 ## 📫 Contact  
 - 📧 Email : michel.centregamal.2017@gmail.com  
-- Telegram : @pushin_p_Michel  
+- Telegram : @pushin_p_Michel
+- Linkedin : https://www.linkedin.com/in/michel-guilavogui-759600239
 - 📍 Ville : Saint-Pétersbourg, Russie  
 
 ---
