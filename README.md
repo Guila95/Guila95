@@ -107,6 +107,24 @@ Je suis un professionnel en cybersécurité actuellement en doctorat, spécialis
 - Linkedin : https://www.linkedin.com/in/michel-guilavogui-759600239
 - 📍 Ville : Saint-Pétersbourg, Russie  
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/michel-guilavogui-759600239">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCjJ_jCyijAVrKCQrmJlBeyg">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+  </a>
+  <a href="https://t.me/pushin_p_Michel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+  <a href="mailto:michel.centregamal.2017@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="facebook.com/Guisoft224" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+</div>
+
 ---
 
 ## 🎨 Centres d'intérêt  
