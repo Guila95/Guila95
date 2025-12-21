@@ -44,7 +44,7 @@ Je suis un professionnel en cybersécurité actuellement en doctorat, spécialis
 **Baccalauréat en Mathématiques**  
 *Emmaüs Stéphane Vigliety, Kindia, Guinée* | 2015  
 - Premier de promotion  
-- 11ᵉ au niveau national, mention Très Bien  
+- 115ᵉ au niveau national, mention Très Bien  
 
 ---
 
